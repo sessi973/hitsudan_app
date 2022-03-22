@@ -2,7 +2,7 @@
   display: flex;
 }
 .side-bar {
-  background-color: #253141;
+  background-color: #e3f6f5;
   width: 300px;
   height: 100vh;
 }
@@ -12,12 +12,12 @@
   padding: 0 20px;  
 }
 .rooms {
-  background-color: #2F3E51;
+  background-color: #bae8e8;
   height: calc(100vh - 100px);
   padding: 0 20px;  
 }
 .chat {
-  background-color: #FFFFFF;
+  background-color: #fffffe;
   width: calc(100vw - 300px);
 }
 .chat-header {
@@ -30,7 +30,7 @@
   padding: 46px 40px 0;  
 }
 .form {
-  background-color: #DDDDDD;
+  background-color: #e3f6f5;
   height: 90px;
   padding: 20px 40px;  
 }
