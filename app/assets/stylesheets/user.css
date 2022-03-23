@@ -2,10 +2,9 @@
   width: 980px;
   margin: 60px auto;
   padding: 60px;
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-}
+  background-color: #abd1c6;
+} 
+
 .account-page .account-page__inner .account-page__inner--left, .account-page .account-page__inner .account-page__inner--right {
   float: left;
   width: 50%;
@@ -26,17 +25,17 @@
   display: block;
   width: 60px;
   margin-top: 5px;
-  border-bottom: 1px solid #38aef0;
+  
 }
 .account-page .account-page__header h5 {
   margin-bottom: 20px;
-  font-size: 14px;
+  font-size: 22px;
   font-weight: 200;
 }
 .account-page .account-page__header .btn {
   margin-top: 20px;
   color: #fff;
-  background-color: #ccc;
+  background-color: #f9bc60;
   font-size: 14px;
 }
 .account-page .field {
@@ -45,7 +44,7 @@
 .account-page .field .field-label {
   padding: 10px 0;
   letter-spacing: 1px;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 200;
 }
 .account-page .field .field-label i {
@@ -69,8 +68,8 @@
 .account-page input[type=submit] {
   float: left;
   margin-top: 20px;
-  color: #fff;
-  background-color: #38aef0;
+  color: #001e1d;
+  background-color: #f9bc60;
 }
 .account-page .field-label .field_with_errors {
   display: inline-block;
@@ -88,7 +87,7 @@
   right: 0;
   bottom: 0;
   width: 5px;
-  background-color: #d65f4c;
+  background-color: #0f3433;
 }
 
 #error_explanation {
@@ -112,3 +111,4 @@
   padding: 0;
   font-size: 13px;
 }
+
