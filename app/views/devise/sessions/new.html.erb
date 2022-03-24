@@ -1,10 +1,13 @@
 <div class='account-page' id='account-page'>
   <div class='account-page__inner clearfix'>
     <div class='account-page__inner--left account-page__header'>
-      <h2>Hatano家</h2>
+      <h2>Hitsudan</h2>
       <h5>最初にログインしよう</h5>
       <%= render "devise/shared/links"%>
     </div>
+    <div class="bird"></div>
+<div class="bird -type_2"></div>
+<div class="bird -type_3"></div>
     <div class='account-page__inner--right user-form'>
       <%= form_with model: resource, as: resource_name, url: session_path(resource_name), local: true do |f|%>
         <div class='field'>
