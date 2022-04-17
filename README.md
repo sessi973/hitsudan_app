@@ -50,6 +50,18 @@ https://docs.google.com/spreadsheets/d/1Pu29GKmXFXq420mMO6NCT-IzkXikso-SAziw393l
 
 # 実装した機能についての画像やGIFおよびその説明
 
+ログイン画面（新規の場合Sign upページより登録）
+[![Image from Gyazo](https://i.gyazo.com/c32a8ebbc5eb6c66da854b11ba4f6bcf.png)](https://gyazo.com/c32a8ebbc5eb6c66da854b11ba4f6bcf)
+
+ログイン後、ルーム作成ボタンより筆談作成する
+[![Image from Gyazo](https://i.gyazo.com/8f26ede9a1062526154c9a85c00eb644.png)](https://gyazo.com/8f26ede9a1062526154c9a85c00eb644)
+
+タイトル、参加者を入力（１対１のチャット）
+[![Image from Gyazo](https://i.gyazo.com/b077f836f729957fbd5db38b1934aa6a.png)](https://gyazo.com/b077f836f729957fbd5db38b1934aa6a)
+
+下段コメント投稿欄よりメッセージ入力（画像も投稿可能）
+[![Image from Gyazo](https://i.gyazo.com/01804526417fe75bee567fae101780b8.png)](https://gyazo.com/01804526417fe75bee567fae101780b8)
+
 # 実装予定の機能
 
 カテゴリ別のボタンから言葉をタップ感覚で押せられるような実装予定。
